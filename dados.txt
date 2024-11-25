@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Guilherme:
+-Estagiário:
+-Cidade: Santos
+-O que faz nas horas vaga: Estudo Automação de testes pela Ebac
+-Feedback sobre o curso Qualidade de Software: gostaria de aprofundar ainda mais meu conhecimento com automação de testes 
+-Feedback sobre a plataforma de estudo da EBAC: ótima
+
+Obrigado!!!
+
+
